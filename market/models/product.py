@@ -1,5 +1,6 @@
 from utils.helper import format_float_str_currency
 
+
 class Product:
 
     counter: int = 1
