@@ -54,7 +54,7 @@ Contributions are welcome! If you'd like to improve or expand upon any of these 
 
 ## License
 
-This repository is licensed under the MIT License. Feel free to use and modify the code as needed.
+This repository is licensed under the [MIT License](LICENSE). Feel free to use and modify the code as needed.
 
 ---
 
